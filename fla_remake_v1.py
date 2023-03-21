@@ -135,5 +135,12 @@ for line in file:
                                         file2 = open(str(shapesname))
                                         print(shapesname)
 
+print("Creating...")
+zip_folder(exportnamef,exportnamef+'.fla')
+
+
+dele=str(os.path.abspath(os.curdir))
+shutil.rmtree(dele+'\\'+exportnamef)
 print("Done!")
+
 sys.exit(0)
