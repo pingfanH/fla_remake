@@ -2,7 +2,7 @@
 
 You can breakaway what exportname you want!
 
-It is used to solve the problem that low-configuration computers cannot open large FLA files
+It is used to solve the problem that low-configuration computers hard to open large FLA files
 
 EASY TO USE：
 
